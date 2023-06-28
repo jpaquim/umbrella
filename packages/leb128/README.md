@@ -57,7 +57,7 @@ Furthermore, all values to be encoded/decoded are cast to i64/u64 range now.
 ## Installation
 
 ```bash
-yarn add @thi.ng/leb128
+pnpm i @thi.ng/leb128
 ```
 
 ES module import:
@@ -123,10 +123,10 @@ zig test zig/leb128.zig
 # All tests passed.
 
 # build binary and regenerate src/binary.ts
-yarn build:binary
+pnpm build:binary
 
 # test TS/JS version
-yarn test
+pnpm test
 ```
 
 ## Authors

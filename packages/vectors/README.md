@@ -157,7 +157,7 @@ reasons the same changes have been applied to this package...
 ## Installation
 
 ```bash
-yarn add @thi.ng/vectors
+pnpm i @thi.ng/vectors
 ```
 
 ES module import:

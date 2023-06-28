@@ -151,7 +151,7 @@ iterable
 ## Installation
 
 ```bash
-yarn add @thi.ng/hiccup
+pnpm i @thi.ng/hiccup
 ```
 
 ES module import:

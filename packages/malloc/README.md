@@ -127,7 +127,7 @@ capacity:
 ## Installation
 
 ```bash
-yarn add @thi.ng/malloc
+pnpm i @thi.ng/malloc
 ```
 
 ES module import:

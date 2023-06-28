@@ -402,7 +402,7 @@ please also consult the information in
 ## Installation
 
 ```bash
-yarn add @thi.ng/wasm-api
+pnpm i @thi.ng/wasm-api
 ```
 
 ES module import:

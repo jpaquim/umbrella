@@ -40,7 +40,7 @@ Extensible 2D/3D scene graph with [@thi.ng/hiccup-canvas](https://github.com/thi
 ## Installation
 
 ```bash
-yarn add @thi.ng/scenegraph
+pnpm i @thi.ng/scenegraph
 ```
 
 ES module import:

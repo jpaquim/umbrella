@@ -58,7 +58,7 @@ encoding.
 ## Installation
 
 ```bash
-yarn add @thi.ng/bencode
+pnpm i @thi.ng/bencode
 ```
 
 ES module import:

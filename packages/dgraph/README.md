@@ -53,7 +53,7 @@ maps & sets as backend.
 ## Installation
 
 ```bash
-yarn add @thi.ng/dgraph
+pnpm i @thi.ng/dgraph
 ```
 
 ES module import:

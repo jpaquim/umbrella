@@ -35,7 +35,7 @@ References:
 ## Installation
 
 ```bash
-yarn add @thi.ng/dynvar
+pnpm i @thi.ng/dynvar
 ```
 
 ES module import:

@@ -64,7 +64,7 @@ sensible).
 ## Installation
 
 ```bash
-yarn add @thi.ng/matrices
+pnpm i @thi.ng/matrices
 ```
 
 ES module import:

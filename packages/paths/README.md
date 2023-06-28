@@ -72,7 +72,7 @@ and their value type inferred as `any`.
 ## Installation
 
 ```bash
-yarn add @thi.ng/paths
+pnpm i @thi.ng/paths
 ```
 
 ES module import:

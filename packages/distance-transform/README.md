@@ -49,7 +49,7 @@ Image credits: (c) 2017 Karsten Schmidt
 ## Installation
 
 ```bash
-yarn add @thi.ng/distance-transform
+pnpm i @thi.ng/distance-transform
 ```
 
 ES module import:

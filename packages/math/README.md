@@ -49,7 +49,7 @@ of the existing `fmod()` function...
 ## Installation
 
 ```bash
-yarn add @thi.ng/math
+pnpm i @thi.ng/math
 ```
 
 ES module import:

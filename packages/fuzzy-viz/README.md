@@ -32,7 +32,7 @@ Visualization, instrumentation & introspection utils for [@thi.ng/fuzzy](https:/
 ## Installation
 
 ```bash
-yarn add @thi.ng/fuzzy-viz
+pnpm i @thi.ng/fuzzy-viz
 ```
 
 ES module import:

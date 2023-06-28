@@ -49,7 +49,7 @@ and example below for details.
 ## Installation
 
 ```bash
-yarn add @thi.ng/geom-trace-bitmap
+pnpm i @thi.ng/geom-trace-bitmap
 ```
 
 ES module import:

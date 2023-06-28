@@ -324,7 +324,7 @@ console.log(clusters);
 ## Installation
 
 ```bash
-yarn add @thi.ng/pixel
+pnpm i @thi.ng/pixel
 ```
 
 ES module import:

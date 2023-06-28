@@ -32,7 +32,7 @@ Array / Arraylike utilities.
 ## Installation
 
 ```bash
-yarn add @thi.ng/arrays
+pnpm i @thi.ng/arrays
 ```
 
 ES module import:

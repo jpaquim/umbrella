@@ -99,7 +99,7 @@ Clojure projects:
 ## Installation
 
 ```bash
-yarn add @thi.ng/hiccup-css
+pnpm i @thi.ng/hiccup-css
 ```
 
 ES module import:

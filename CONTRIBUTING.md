@@ -130,7 +130,7 @@ in the wiki.
 FWIW I usually launch examples from the repo root via a subshell:
 
 ```bash
-(cd examples/webgl-msdf && yarn start)
+(cd examples/webgl-msdf && pnpm start)
 ```
 
 If you choose to add a new example this way (and not elsewhere on the
@@ -154,7 +154,7 @@ git clone https://github.com/thi-ng/umbrella.git
 cd umbrella
 
 # Installs all dev deps & builds all packages
-yarn build
+pnpm build
 ```
 
 ### Create a feature branch
@@ -224,13 +224,13 @@ Tests can be run via:
 yarn workspace @thi.ng/<package-name> run test
 
 # or
-(cd packages/<package-name> && yarn test)
+(cd packages/<package-name> && pnpm test)
 
 # or all tests (from repo root)
 
-yarn test # also builds all packages first
+pnpm test # also builds all packages first
 
-yarn test:only # assumes all packages have been build already
+pnpm test:only # assumes all packages have been build already
 ```
 
 ### Push to your feature branch

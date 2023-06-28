@@ -6,4 +6,3 @@
 *.png	-text
 *.gz    -text
 tools/doc/* linguist-documentation
-yarn.lock -diff

@@ -304,7 +304,7 @@ Accepting PRs with instructruction for other editors & IDEs.
 ## Installation
 
 ```bash
-yarn add @thi.ng/tangle
+pnpm i @thi.ng/tangle
 ```
 
 ES module import:

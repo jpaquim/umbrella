@@ -69,7 +69,7 @@ an ES6 embedded DSL for concatenative programming:
 ## Installation
 
 ```bash
-yarn add @thi.ng/pointfree-lang
+pnpm i @thi.ng/pointfree-lang
 ```
 
 ES module import:

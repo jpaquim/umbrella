@@ -14,7 +14,7 @@ built](https://github.com/thi-ng/umbrella/blob/develop/README.md#building):
 
 ```bash
 cd umbrella/examples/commit-heatmap
-yarn build
+pnpm build
 ```
 
 The resulting visualization is saved as `heatmap.svg` in the example

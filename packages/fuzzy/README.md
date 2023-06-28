@@ -69,7 +69,7 @@ Fuzzy logic operators & configurable rule inferencing engine.
 ## Installation
 
 ```bash
-yarn add @thi.ng/fuzzy
+pnpm i @thi.ng/fuzzy
 ```
 
 ES module import:

@@ -38,7 +38,7 @@ Basic WebGL scaffolding for running interactive fragment shaders via [@thi.ng/sh
 ## Installation
 
 ```bash
-yarn add @thi.ng/webgl-shadertoy
+pnpm i @thi.ng/webgl-shadertoy
 ```
 
 ES module import:

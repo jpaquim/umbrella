@@ -69,7 +69,7 @@ References:
 ## Installation
 
 ```bash
-yarn add @thi.ng/vclock
+pnpm i @thi.ng/vclock
 ```
 
 ES module import:

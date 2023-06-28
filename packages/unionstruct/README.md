@@ -49,7 +49,7 @@ Currently does not support array fields (incl. strings).
 ## Installation
 
 ```bash
-yarn add @thi.ng/unionstruct
+pnpm i @thi.ng/unionstruct
 ```
 
 ES module import:

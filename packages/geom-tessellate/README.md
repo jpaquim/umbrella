@@ -42,7 +42,7 @@ highly dependent on the concavities present. YMMV!
 ## Installation
 
 ```bash
-yarn add @thi.ng/geom-tessellate
+pnpm i @thi.ng/geom-tessellate
 ```
 
 ES module import:

@@ -66,7 +66,7 @@ Please also see the following hdom references for further details:
 ## Installation
 
 ```bash
-yarn add @thi.ng/transducers-hdom
+pnpm i @thi.ng/transducers-hdom
 ```
 
 ES module import:

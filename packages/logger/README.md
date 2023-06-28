@@ -90,7 +90,7 @@ logger.info("result is", () => 23 + 42);
 ## Installation
 
 ```bash
-yarn add @thi.ng/logger
+pnpm i @thi.ng/logger
 ```
 
 ES module import:

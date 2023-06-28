@@ -38,7 +38,7 @@ Current implementations partially based on
 ## Installation
 
 ```bash
-yarn add @thi.ng/geom-resample
+pnpm i @thi.ng/geom-resample
 ```
 
 ES module import:

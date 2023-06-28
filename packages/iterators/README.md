@@ -91,7 +91,7 @@ more composable & efficient transducers via
 ## Installation
 
 ```bash
-yarn add @thi.ng/iterators
+pnpm i @thi.ng/iterators
 ```
 
 ES module import:

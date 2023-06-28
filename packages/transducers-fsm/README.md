@@ -52,7 +52,7 @@ package.
 ## Installation
 
 ```bash
-yarn add @thi.ng/transducers-fsm
+pnpm i @thi.ng/transducers-fsm
 ```
 
 ES module import:

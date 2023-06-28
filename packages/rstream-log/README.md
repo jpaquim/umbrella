@@ -50,7 +50,7 @@ filtering.
 ## Installation
 
 ```bash
-yarn add @thi.ng/rstream-log
+pnpm i @thi.ng/rstream-log
 ```
 
 ES module import:

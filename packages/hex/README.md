@@ -35,7 +35,7 @@ Hex string formatters for 4/8/16/24/32/48/64bit words.
 ## Installation
 
 ```bash
-yarn add @thi.ng/hex
+pnpm i @thi.ng/hex
 ```
 
 ES module import:

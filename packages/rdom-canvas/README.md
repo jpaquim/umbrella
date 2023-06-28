@@ -101,7 +101,7 @@ README](https://github.com/thi-ng/umbrella/blob/develop/packages/hiccup-canvas/R
 ## Installation
 
 ```bash
-yarn add @thi.ng/rdom-canvas
+pnpm i @thi.ng/rdom-canvas
 ```
 
 ES module import:

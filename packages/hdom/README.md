@@ -124,7 +124,7 @@ Benefits:
 ## Installation
 
 ```bash
-yarn add @thi.ng/hdom
+pnpm i @thi.ng/hdom
 ```
 
 ES module import:
@@ -149,11 +149,11 @@ features from @thi.ng/atom, @thi.ng/hdom, @thi.ng/interceptors &
 handling will be added in the future.
 
 ```bash
-yarn create hdom-app my-app
+pnpm create hdom-app my-app
 
 cd my-app
-yarn install
-yarn start
+pnpm i
+pnpm start
 ```
 
 Package sizes (brotli'd, pre-treeshake): ESM: 3.42 KB

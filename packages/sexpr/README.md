@@ -52,7 +52,7 @@ Everything else is parsed as is, i.e. as symbol.
 ## Installation
 
 ```bash
-yarn add @thi.ng/sexpr
+pnpm i @thi.ng/sexpr
 ```
 
 ES module import:

@@ -36,7 +36,7 @@ This project is part of the
 ## Installation
 
 ```bash
-yarn add @thi.ng/binary
+pnpm i @thi.ng/binary
 ```
 
 ES module import:

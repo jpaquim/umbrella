@@ -66,7 +66,7 @@ References:
 ## Installation
 
 ```bash
-yarn add @thi.ng/gp
+pnpm i @thi.ng/gp
 ```
 
 ES module import:

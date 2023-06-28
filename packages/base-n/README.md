@@ -30,7 +30,7 @@ Arbitrary base-n conversions w/ presets for base16/32/36/58/62/64/85, support fo
 ## Installation
 
 ```bash
-yarn add @thi.ng/base-n
+pnpm i @thi.ng/base-n
 ```
 
 ES module import:

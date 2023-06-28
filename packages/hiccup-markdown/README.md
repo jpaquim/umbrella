@@ -518,7 +518,7 @@ More info [here](http://thi.ng/hiccup-markdown).
 ## Installation
 
 ```bash
-yarn add @thi.ng/hiccup-markdown
+pnpm i @thi.ng/hiccup-markdown
 ```
 
 ES module import:

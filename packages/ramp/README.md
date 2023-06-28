@@ -33,7 +33,7 @@ Parametric (non-)linearly interpolated 1D lookup tables for remapping values.
 ## Installation
 
 ```bash
-yarn add @thi.ng/ramp
+pnpm i @thi.ng/ramp
 ```
 
 ES module import:

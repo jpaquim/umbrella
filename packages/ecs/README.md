@@ -41,7 +41,7 @@ Entity Component System based around typed arrays & sparse sets.
 ## Installation
 
 ```bash
-yarn add @thi.ng/ecs
+pnpm i @thi.ng/ecs
 ```
 
 ES module import:

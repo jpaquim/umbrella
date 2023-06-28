@@ -60,7 +60,7 @@ package for better re-usability, also outside without hdom.
 ## Installation
 
 ```bash
-yarn add @thi.ng/hdom-canvas
+pnpm i @thi.ng/hdom-canvas
 ```
 
 ES module import:

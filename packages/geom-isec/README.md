@@ -53,7 +53,7 @@ Current implementations partially based on
 ## Installation
 
 ```bash
-yarn add @thi.ng/geom-isec
+pnpm i @thi.ng/geom-isec
 ```
 
 ES module import:

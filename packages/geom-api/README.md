@@ -30,7 +30,7 @@ Shared type & interface declarations for [@thi.ng/geom](https://github.com/thi-n
 ## Installation
 
 ```bash
-yarn add @thi.ng/geom-api
+pnpm i @thi.ng/geom-api
 ```
 
 ES module import:

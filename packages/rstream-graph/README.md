@@ -52,7 +52,7 @@ these and keep any cycles async).
 ## Installation
 
 ```bash
-yarn add @thi.ng/rstream-graph
+pnpm i @thi.ng/rstream-graph
 ```
 
 ES module import:

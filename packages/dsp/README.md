@@ -67,7 +67,7 @@ might be ported to WASM.
 ## Installation
 
 ```bash
-yarn add @thi.ng/dsp
+pnpm i @thi.ng/dsp
 ```
 
 ES module import:

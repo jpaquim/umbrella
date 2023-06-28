@@ -134,7 +134,7 @@ after 1 second (25 frames)...
 ## Installation
 
 ```bash
-yarn add @thi.ng/timestep
+pnpm i @thi.ng/timestep
 ```
 
 ES module import:

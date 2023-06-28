@@ -584,7 +584,7 @@ concatenation (see `concat()`) for more efficient application.
 ## Installation
 
 ```bash
-yarn add @thi.ng/color
+pnpm i @thi.ng/color
 ```
 
 ES module import:

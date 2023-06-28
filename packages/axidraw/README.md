@@ -177,7 +177,7 @@ These metrics include:
 ## Installation
 
 ```bash
-yarn add @thi.ng/axidraw
+pnpm i @thi.ng/axidraw
 ```
 
 For Node.js REPL:

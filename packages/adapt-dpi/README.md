@@ -36,7 +36,7 @@ size, and resizes canvas pixel buffer itself based on DPR (e.g. 2x size).
 ## Installation
 
 ```bash
-yarn add @thi.ng/adapt-dpi
+pnpm i @thi.ng/adapt-dpi
 ```
 
 ES module import:

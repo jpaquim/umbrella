@@ -156,7 +156,7 @@ package.
 ## Installation
 
 ```bash
-yarn add @thi.ng/transducers
+pnpm i @thi.ng/transducers
 ```
 
 ES module import:

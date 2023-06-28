@@ -58,7 +58,7 @@ which altogether provide ~750 optimized vector/matrix functions.
 ## Installation
 
 ```bash
-yarn add @thi.ng/shader-ast-js
+pnpm i @thi.ng/shader-ast-js
 ```
 
 ES module import:

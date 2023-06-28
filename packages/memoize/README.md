@@ -50,7 +50,7 @@ based on different strategies. See doc strings for further details.
 ## Installation
 
 ```bash
-yarn add @thi.ng/memoize
+pnpm i @thi.ng/memoize
 ```
 
 ES module import:

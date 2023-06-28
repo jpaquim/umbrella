@@ -47,7 +47,7 @@ const SEP = "~~";
 const IGNORE = new Set(["all", "main", "make-example", "snowpack"]);
 
 const BUILD = new Set([
-	"yarn.lock",
+	"pnpm-lock.yaml",
 	".gitignore",
 	"scripts/make-package",
 	"scripts/make-example",

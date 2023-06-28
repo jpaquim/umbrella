@@ -48,7 +48,7 @@ details.
 ## Installation
 
 ```bash
-yarn add @thi.ng/dot
+pnpm i @thi.ng/dot
 ```
 
 ES module import:

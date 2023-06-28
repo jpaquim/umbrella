@@ -55,7 +55,7 @@ support both directed & undirected graphs:
 ## Installation
 
 ```bash
-yarn add @thi.ng/adjacency
+pnpm i @thi.ng/adjacency
 ```
 
 ES module import:

@@ -45,7 +45,7 @@ for a concrete usage example...
 ## Installation
 
 ```bash
-yarn add @thi.ng/transclude
+pnpm i @thi.ng/transclude
 ```
 
 For Node.js REPL:

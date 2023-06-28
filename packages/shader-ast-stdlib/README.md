@@ -84,7 +84,7 @@ Reference:
 ## Installation
 
 ```bash
-yarn add @thi.ng/shader-ast-stdlib
+pnpm i @thi.ng/shader-ast-stdlib
 ```
 
 ES module import:

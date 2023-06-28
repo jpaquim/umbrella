@@ -235,7 +235,7 @@ Some of the most obvious missing features:
 ## Installation
 
 ```bash
-yarn add @thi.ng/imgui
+pnpm i @thi.ng/imgui
 ```
 
 ES module import:

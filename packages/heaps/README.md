@@ -40,7 +40,7 @@ ordering and fanout / tree arity (in case of `DHeap`) and largely unified API:
 ## Installation
 
 ```bash
-yarn add @thi.ng/heaps
+pnpm i @thi.ng/heaps
 ```
 
 ES module import:

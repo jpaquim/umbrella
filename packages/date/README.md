@@ -40,7 +40,7 @@ Datetime types, relative dates, math, iterators, composable formatters, locales.
 ## Installation
 
 ```bash
-yarn add @thi.ng/date
+pnpm i @thi.ng/date
 ```
 
 ES module import:

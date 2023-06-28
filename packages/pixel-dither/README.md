@@ -47,7 +47,7 @@ very easily extended via definition of custom kernels):
 ## Installation
 
 ```bash
-yarn add @thi.ng/pixel-dither
+pnpm i @thi.ng/pixel-dither
 ```
 
 ES module import:

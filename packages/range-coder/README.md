@@ -37,7 +37,7 @@ by Joe Halliwell](https://www.winterwell.com/software/compressor.php).
 ## Installation
 
 ```bash
-yarn add @thi.ng/range-coder
+pnpm i @thi.ng/range-coder
 ```
 
 ES module import:

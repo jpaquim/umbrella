@@ -47,7 +47,7 @@ The following main functions are provided:
 ## Installation
 
 ```bash
-yarn add @thi.ng/geom-clip-line
+pnpm i @thi.ng/geom-clip-line
 ```
 
 ES module import:

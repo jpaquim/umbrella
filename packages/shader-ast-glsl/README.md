@@ -44,7 +44,7 @@ This package is also used for shader assembly by
 ## Installation
 
 ```bash
-yarn add @thi.ng/shader-ast-glsl
+pnpm i @thi.ng/shader-ast-glsl
 ```
 
 ES module import:

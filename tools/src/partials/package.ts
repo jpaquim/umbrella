@@ -129,7 +129,7 @@ export const packageBanner = (config: Config, name: string) => {
 export const packageInstallation = (pkg: Package) =>
 	[
 		`\`\`\`bash
-yarn add ${pkg.name}
+pnpm i ${pkg.name}
 \`\`\``,
 		isWebModule(pkg)
 			? `\nES module import:

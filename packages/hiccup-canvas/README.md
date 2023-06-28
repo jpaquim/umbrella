@@ -78,7 +78,7 @@ implementations) and then translates these into canvas API draw calls.
 ## Installation
 
 ```bash
-yarn add @thi.ng/hiccup-canvas
+pnpm i @thi.ng/hiccup-canvas
 ```
 
 ES module import:

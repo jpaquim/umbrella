@@ -48,7 +48,7 @@ underscores (`_`).
 ## Installation
 
 ```bash
-yarn add @thi.ng/emoji
+pnpm i @thi.ng/emoji
 ```
 
 ES module import:

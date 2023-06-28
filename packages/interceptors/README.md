@@ -133,7 +133,7 @@ commented source code and examples for now:
 ## Installation
 
 ```bash
-yarn add @thi.ng/interceptors
+pnpm i @thi.ng/interceptors
 ```
 
 ES module import:

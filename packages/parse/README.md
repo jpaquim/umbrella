@@ -72,7 +72,7 @@ There's a 2h 45m long video tutorial (live stream) introducing this package: [Bu
 ## Installation
 
 ```bash
-yarn add @thi.ng/parse
+pnpm i @thi.ng/parse
 ```
 
 ES module import:

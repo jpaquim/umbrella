@@ -598,7 +598,7 @@ Densities of selected materials:
 ## Installation
 
 ```bash
-yarn add @thi.ng/units
+pnpm i @thi.ng/units
 ```
 
 ES module import:

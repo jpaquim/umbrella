@@ -78,7 +78,7 @@ Largely declarative WebGL 1.0 / 2.0 abstraction layer, partially ported
 ## Installation
 
 ```bash
-yarn add @thi.ng/webgl
+pnpm i @thi.ng/webgl
 ```
 
 ES module import:

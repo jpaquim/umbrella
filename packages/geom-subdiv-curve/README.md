@@ -52,7 +52,7 @@ Supplied / implemented subdivision schemes:
 ## Installation
 
 ```bash
-yarn add @thi.ng/geom-subdiv-curve
+pnpm i @thi.ng/geom-subdiv-curve
 ```
 
 ES module import:

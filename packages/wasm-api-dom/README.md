@@ -266,7 +266,7 @@ const Counter = struct {
 ## Installation
 
 ```bash
-yarn add @thi.ng/wasm-api-dom
+pnpm i @thi.ng/wasm-api-dom
 ```
 
 ES module import:

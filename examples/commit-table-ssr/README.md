@@ -47,8 +47,8 @@ See [/src/server/index.ts](./src/server/index.ts) for details...
 ```bash
 git clone https://github.com/thi-ng/umbrella.git
 cd umbrella/examples/commit-table-ssr
-yarn install
-yarn start
+pnpm i
+pnpm start
 ```
 
 Then open http://localhost:8080/ssr in your browser.
@@ -71,7 +71,7 @@ various reactive stream constructs. Comments are included.
 See [/src/client/index.ts](./src/client/index.ts) for details...
 
 ```
-yarn start
+pnpm start
 ```
 
 Once you see a message that the server is running and the client app has
@@ -84,7 +84,7 @@ The result will be saved to `table.html` in this example's root directory.
 See [/src/server/static.ts](./src/server/static.ts) for details...
 
 ```bash
-yarn build-static
+pnpm build-static
 ```
 
 ## Authors

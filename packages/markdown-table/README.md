@@ -38,7 +38,7 @@ See related packages below for alternative solutions / approaches...
 ## Installation
 
 ```bash
-yarn add @thi.ng/markdown-table
+pnpm i @thi.ng/markdown-table
 ```
 
 ES module import:

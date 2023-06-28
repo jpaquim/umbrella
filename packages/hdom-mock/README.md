@@ -35,7 +35,7 @@ custom target implementations.
 ## Installation
 
 ```bash
-yarn add @thi.ng/hdom-mock
+pnpm i @thi.ng/hdom-mock
 ```
 
 ES module import:

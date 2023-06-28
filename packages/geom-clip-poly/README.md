@@ -38,7 +38,7 @@ Current implementations are based on [toxiclibs](http://toxiclibs.org)
 ## Installation
 
 ```bash
-yarn add @thi.ng/geom-clip-poly
+pnpm i @thi.ng/geom-clip-poly
 ```
 
 ES module import:

@@ -74,7 +74,7 @@ for more LRU, MRU implementations based on managed `DCons` impls...
 ## Installation
 
 ```bash
-yarn add @thi.ng/dcons
+pnpm i @thi.ng/dcons
 ```
 
 ES module import:

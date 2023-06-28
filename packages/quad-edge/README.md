@@ -48,7 +48,7 @@ Reference:
 ## Installation
 
 ```bash
-yarn add @thi.ng/quad-edge
+pnpm i @thi.ng/quad-edge
 ```
 
 ES module import:

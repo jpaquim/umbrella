@@ -112,7 +112,7 @@ package.
 ## Installation
 
 ```bash
-yarn add @thi.ng/distance
+pnpm i @thi.ng/distance
 ```
 
 ES module import:

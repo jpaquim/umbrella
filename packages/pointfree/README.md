@@ -195,7 +195,7 @@ non-linear control flow.
 ## Installation
 
 ```bash
-yarn add @thi.ng/pointfree
+pnpm i @thi.ng/pointfree
 ```
 
 ES module import:

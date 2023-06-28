@@ -115,7 +115,7 @@ outside our control...
 ## Installation
 
 ```bash
-yarn add @thi.ng/simd
+pnpm i @thi.ng/simd
 ```
 
 ES module import:

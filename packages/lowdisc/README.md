@@ -70,7 +70,7 @@ Based on Kronecker with each dimension's base automatically derived from the
 ## Installation
 
 ```bash
-yarn add @thi.ng/lowdisc
+pnpm i @thi.ng/lowdisc
 ```
 
 ES module import:

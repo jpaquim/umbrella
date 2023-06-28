@@ -36,7 +36,7 @@ Clojure/ClojureScript.
 ## Installation
 
 ```bash
-yarn add @thi.ng/system
+pnpm i @thi.ng/system
 ```
 
 ES module import:

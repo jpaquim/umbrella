@@ -38,7 +38,7 @@ String diffing w/ hiccup output for further processing, e.g. with [@thi.ng/hdom]
 ## Installation
 
 ```bash
-yarn add @thi.ng/hdiff
+pnpm i @thi.ng/hdiff
 ```
 
 ES module import:

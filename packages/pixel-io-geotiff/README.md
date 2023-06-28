@@ -38,7 +38,7 @@ functionality. For the latter we recommend using the wrapped
 ## Installation
 
 ```bash
-yarn add @thi.ng/pixel-io-geotiff
+pnpm i @thi.ng/pixel-io-geotiff
 ```
 
 ES module import:

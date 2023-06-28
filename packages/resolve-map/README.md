@@ -56,7 +56,7 @@ supported.
 ## Installation
 
 ```bash
-yarn add @thi.ng/resolve-map
+pnpm i @thi.ng/resolve-map
 ```
 
 ES module import:

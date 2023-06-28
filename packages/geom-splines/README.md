@@ -43,7 +43,7 @@ Current implementations partially based on
 ## Installation
 
 ```bash
-yarn add @thi.ng/geom-splines
+pnpm i @thi.ng/geom-splines
 ```
 
 ES module import:

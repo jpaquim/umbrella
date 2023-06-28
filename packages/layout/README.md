@@ -37,7 +37,7 @@ to define other layout types / implementations.
 ## Installation
 
 ```bash
-yarn add @thi.ng/layout
+pnpm i @thi.ng/layout
 ```
 
 ES module import:

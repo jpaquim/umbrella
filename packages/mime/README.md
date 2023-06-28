@@ -45,7 +45,7 @@ original DB, as well as some preference overrides.
 ## Installation
 
 ```bash
-yarn add @thi.ng/mime
+pnpm i @thi.ng/mime
 ```
 
 ES module import:
@@ -134,7 +134,7 @@ preferredExtension("image/foo", "dat");
 ```bash
 # from the thi.ng/umbrella repo root
 cd packages/mime
-yarn tool:convert
+pnpm tool:convert
 ```
 
 Additional configuration options are available in the `tools/convert.ts` script.

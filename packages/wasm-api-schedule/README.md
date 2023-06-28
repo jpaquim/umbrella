@@ -82,7 +82,7 @@ example projects for more advanced usage...
 ## Installation
 
 ```bash
-yarn add @thi.ng/wasm-api-schedule
+pnpm i @thi.ng/wasm-api-schedule
 ```
 
 ES module import:

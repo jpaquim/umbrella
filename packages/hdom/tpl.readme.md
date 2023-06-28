@@ -67,11 +67,11 @@ features from @thi.ng/atom, @thi.ng/hdom, @thi.ng/interceptors &
 handling will be added in the future.
 
 ```bash
-yarn create hdom-app my-app
+pnpm create hdom-app my-app
 
 cd my-app
-yarn install
-yarn start
+pnpm i
+pnpm start
 ```
 
 {{pkg.size}}

@@ -38,7 +38,7 @@ readme & source code for visualization options.
 ## Installation
 
 ```bash
-yarn add @thi.ng/dgraph-dot
+pnpm i @thi.ng/dgraph-dot
 ```
 
 ES module import:

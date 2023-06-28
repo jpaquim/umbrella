@@ -41,7 +41,7 @@ Current implementations partially based on
 ## Installation
 
 ```bash
-yarn add @thi.ng/geom-closest-point
+pnpm i @thi.ng/geom-closest-point
 ```
 
 ES module import:

@@ -34,7 +34,7 @@ Current implementation is partially based on Clojure version of
 ## Installation
 
 ```bash
-yarn add @thi.ng/geom-hull
+pnpm i @thi.ng/geom-hull
 ```
 
 ES module import:

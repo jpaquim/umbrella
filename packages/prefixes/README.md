@@ -40,7 +40,7 @@ This project is part of the
 ## Installation
 
 ```bash
-yarn add @thi.ng/prefixes
+pnpm i @thi.ng/prefixes
 ```
 
 ES module import:

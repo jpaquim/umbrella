@@ -90,7 +90,7 @@ glsl(constantFolding(expr))
 ## Installation
 
 ```bash
-yarn add @thi.ng/shader-ast-optimize
+pnpm i @thi.ng/shader-ast-optimize
 ```
 
 ES module import:

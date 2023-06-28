@@ -48,7 +48,7 @@ code](https://github.com/thi-ng/umbrella/tree/develop/packages/hiccup-carbon-ico
 ## Installation
 
 ```bash
-yarn add @thi.ng/hiccup-carbon-icons
+pnpm i @thi.ng/hiccup-carbon-icons
 ```
 
 ES module import:
@@ -112,17 +112,17 @@ checkout of both the original carbon and the umbrella mono repos.
 
 ```bash
 # install pre-requisites
-yarn global add svgo
+pnpm i -g svgo
 
 git clone https://github.com/thi-ng/umbrella.git
 
 # build entire umbrella repo
 cd umbrella
-yarn build
+pnpm build
 
 # build xml to hiccup converter CLI tool
 cd examples/xml-converter
-yarn build-cli
+pnpm build-cli
 
 # switch to package root
 cd ../../hiccup-carbon-icons
@@ -131,10 +131,10 @@ cd ../../hiccup-carbon-icons
 git clone https://github.com/carbon-design-system/carbon.git tmp
 
 # convert original SVG icons and write results to package src folder
-yarn build:convert src tmp/packages/icons/src/svg/32
+pnpm build:convert src tmp/packages/icons/src/svg/32
 
 # update contact sheet (will be written to package root)
-yarn build:sheet
+pnpm build:sheet
 
 # open in browser
 open contact-sheet.html
@@ -143,7 +143,7 @@ open contact-sheet.html
 # e.g. in the latest version (2020/08), several icons use paths w/ opacity=0 which need to be removed
 
 # rebuild package
-yarn build
+pnpm build
 ```
 
 ## Authors

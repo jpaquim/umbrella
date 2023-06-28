@@ -51,7 +51,7 @@ individual values, e.g. `-a 1,2,3` equals `-a 1 -a 2 -a 3`
 ## Installation
 
 ```bash
-yarn add @thi.ng/args
+pnpm i @thi.ng/args
 ```
 
 ES module import:

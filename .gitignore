@@ -30,13 +30,5 @@ examples/*/wasm-api-build.zig
 node_modules
 packages/*/tools
 
-.pnp.*
-.yarn/*
-!.yarn/patches
-!.yarn/plugins
-!.yarn/releases
-!.yarn/sdks
-!.yarn/versions
-
 !examples/**/*.d.ts
 !fixtures

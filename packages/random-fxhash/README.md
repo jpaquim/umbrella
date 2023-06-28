@@ -80,7 +80,7 @@ functionality, e.g.:
 ## Installation
 
 ```bash
-yarn add @thi.ng/random-fxhash
+pnpm i @thi.ng/random-fxhash
 ```
 
 For Node.js REPL:

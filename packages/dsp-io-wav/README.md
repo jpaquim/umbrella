@@ -30,7 +30,7 @@ WAV file format generation. This is a support package for [@thi.ng/dsp](https://
 ## Installation
 
 ```bash
-yarn add @thi.ng/dsp-io-wav
+pnpm i @thi.ng/dsp-io-wav
 ```
 
 ES module import:

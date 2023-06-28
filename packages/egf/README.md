@@ -102,7 +102,7 @@ deployed already.
 ## Installation
 
 ```bash
-yarn add @thi.ng/egf
+pnpm i @thi.ng/egf
 ```
 
 ES module import:

@@ -717,7 +717,7 @@ write access (from the JS side)...
 ## Installation
 
 ```bash
-yarn add @thi.ng/wasm-api-bindgen
+pnpm i @thi.ng/wasm-api-bindgen
 ```
 
 ES module import:

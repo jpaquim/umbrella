@@ -43,7 +43,7 @@ Custom error types can be easily defined using
 ## Installation
 
 ```bash
-yarn add @thi.ng/errors
+pnpm i @thi.ng/errors
 ```
 
 ES module import:

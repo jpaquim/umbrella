@@ -58,7 +58,7 @@ This package might be merged with and/or superseded by
 ## Installation
 
 ```bash
-yarn add @thi.ng/vector-pools
+pnpm i @thi.ng/vector-pools
 ```
 
 ES module import:

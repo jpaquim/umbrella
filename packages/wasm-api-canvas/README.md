@@ -36,7 +36,7 @@ some additional drawing utilities to minimize boilerplate & WASM/JS cross-callin
 ## Installation
 
 ```bash
-yarn add @thi.ng/wasm-api-canvas
+pnpm i @thi.ng/wasm-api-canvas
 ```
 
 ES module import:

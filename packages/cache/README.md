@@ -57,7 +57,7 @@ strategies](https://en.wikipedia.org/wiki/Cache_replacement_policies).
 ## Installation
 
 ```bash
-yarn add @thi.ng/cache
+pnpm i @thi.ng/cache
 ```
 
 ES module import:

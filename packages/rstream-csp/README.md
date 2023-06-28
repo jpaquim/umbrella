@@ -39,7 +39,7 @@ and synchronous stream subscriptions/transformations of
 ## Installation
 
 ```bash
-yarn add @thi.ng/rstream-csp
+pnpm i @thi.ng/rstream-csp
 ```
 
 ES module import:

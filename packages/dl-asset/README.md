@@ -38,7 +38,7 @@ Canvas, video recording & file asset download helpers for web apps.
 ## Installation
 
 ```bash
-yarn add @thi.ng/dl-asset
+pnpm i @thi.ng/dl-asset
 ```
 
 ES module import:

@@ -53,7 +53,7 @@ Planned features:
 ## Installation
 
 ```bash
-yarn add @thi.ng/lsys
+pnpm i @thi.ng/lsys
 ```
 
 ES module import:

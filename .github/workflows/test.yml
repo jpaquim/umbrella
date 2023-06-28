@@ -9,7 +9,7 @@ on:
             - "packages/**"
             - ".github/workflows/**"
             - "package.json"
-            - "yarn.lock"
+            - "pnpm-lock.yaml"
             - "!**.md"
     pull_request:
         branches:
@@ -22,10 +22,10 @@ jobs:
             - uses: actions/setup-node@v3
               with:
                   node-version: ">=17.5.0"
-                  cache: "yarn"
+                  cache: "pnpm"
             - uses: goto-bus-stop/setup-zig@v2
               with:
                   version: 0.10.0
-            - run: yarn install --immutable
-            - run: yarn test
-            - run: yarn tool:imports
+            - run: pnpm i
+            - run: pnpm test
+            - run: pnpm tool:imports

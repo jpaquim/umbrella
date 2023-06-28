@@ -286,7 +286,7 @@ import { asAxiDraw } from "@thi.ng/geom-axidraw";
 ## Installation
 
 ```bash
-yarn add @thi.ng/geom-axidraw
+pnpm i @thi.ng/geom-axidraw
 ```
 
 ES module import:

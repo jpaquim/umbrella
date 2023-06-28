@@ -134,7 +134,7 @@ drawCircle(img, W/2, W/2, W/2 - 4, defUVGradient(W, W), true);
 ## Installation
 
 ```bash
-yarn add @thi.ng/rasterize
+pnpm i @thi.ng/rasterize
 ```
 
 ES module import:

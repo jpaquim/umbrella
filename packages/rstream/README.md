@@ -180,7 +180,7 @@ src.transformTopic("foo", map((e) => e.value), { error: handleError })
 ## Installation
 
 ```bash
-yarn add @thi.ng/rstream
+pnpm i @thi.ng/rstream
 ```
 
 ES module import:

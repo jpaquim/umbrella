@@ -44,7 +44,7 @@ McCurdy's](https://msdf-bmfont.donmccurdy.com/).
 ## Installation
 
 ```bash
-yarn add @thi.ng/webgl-msdf
+pnpm i @thi.ng/webgl-msdf
 ```
 
 ES module import:

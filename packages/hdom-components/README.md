@@ -46,7 +46,7 @@ components**. Feedback welcome!
 ## Installation
 
 ```bash
-yarn add @thi.ng/hdom-components
+pnpm i @thi.ng/hdom-components
 ```
 
 ES module import:

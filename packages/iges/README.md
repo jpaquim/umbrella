@@ -40,7 +40,7 @@ applications (e.g. Rhino, Houdini, Fusion 360)
 ## Installation
 
 ```bash
-yarn add @thi.ng/iges
+pnpm i @thi.ng/iges
 ```
 
 ES module import:

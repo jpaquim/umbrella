@@ -1,45 +1,39 @@
 {
-    "private": true,
-    "type": "module",
-    "workspaces": [
-        "packages/*",
-        "examples/*",
-        "tools"
-    ],
-    "devDependencies": {
-        "@microsoft/api-documenter": "^7.22.18",
-        "@microsoft/api-extractor": "^7.35.3",
-        "@types/node": "^20.3.1",
-        "esbuild": "^0.18.2",
-        "html-minifier-terser": "^7.2.0",
-        "rimraf": "^5.0.1",
-        "tools": "workspace:^",
-        "ts-node": "^10.9.1",
-        "typedoc": "^0.24.8",
-        "typescript": "^5.1.3"
-    },
-    "dependencies": {
-        "@ygoe/msgpack": "^1.0.3"
-    },
-    "scripts": {
-        "@thi.ng": "yarn workspaces foreach -pv --include '@thi.ng/*'",
-        "@example": "yarn workspaces foreach -pv --include '@example/*'",
-        "build": "yarn @thi.ng -t run build",
-        "clean": "yarn @thi.ng run clean",
-        "doc": "yarn @thi.ng run doc",
-        "doc:ae": "yarn @thi.ng run doc:ae && scripts/collect-apis",
-        "doc:readme": "yarn @thi.ng run doc:readme",
-        "doc:stats": "yarn @thi.ng run doc:stats",
-        "doc:examples": "tools:node-esm tools/src/readme-examples.ts",
-        "examples": "yarn @example run build",
-        "pub": "yarn @thi.ng npm publish --tolerate-republish && yarn doc && tools:node-esm tools/src/deploy-docs.ts",
-        "test": "yarn build && yarn test:only",
-        "test:only": "yarn @thi.ng run test",
-        "tool:deps": "tools:node-esm tools/src/adjacency.ts",
-        "tool:exports": "tools:node-esm tools/src/check-exports.ts",
-        "tool:imports": "tools:node-esm tools/src/check-imports.ts",
-        "tool:prune": "tools:node-esm tools/src/prune-changelogs.ts",
-        "tool:searchindex": "tools:node-esm tools/src/build-search-index.ts"
-    },
-    "packageManager": "yarn@3.2.1"
+	"private": true,
+	"type": "module",
+	"devDependencies": {
+		"@microsoft/api-documenter": "^7.22.18",
+		"@microsoft/api-extractor": "^7.35.3",
+		"@types/node": "^20.3.1",
+		"esbuild": "^0.18.2",
+		"html-minifier-terser": "^7.2.0",
+		"rimraf": "^5.0.1",
+		"tools": "workspace:^",
+		"ts-node": "^10.9.1",
+		"typedoc": "^0.24.8",
+		"typescript": "^5.1.3"
+	},
+	"dependencies": {
+		"@ygoe/msgpack": "^1.0.3"
+	},
+	"scripts": {
+		"@thi.ng": "pnpm -r --filter '@thi.ng/*'",
+		"@example": "pnpm -r --filter '@example/*'",
+		"build": "pnpm @thi.ng -t run build",
+		"clean": "pnpm @thi.ng run clean",
+		"doc": "pnpm @thi.ng run doc",
+		"doc:ae": "pnpm @thi.ng run doc:ae && scripts/collect-apis",
+		"doc:readme": "pnpm @thi.ng run doc:readme",
+		"doc:stats": "pnpm @thi.ng run doc:stats",
+		"doc:examples": "tools:node-esm tools/src/readme-examples.ts",
+		"examples": "pnpm @example run build",
+		"pub": "pnpm @thi.ng npm publish --tolerate-republish && pnpm doc && tools:node-esm tools/src/deploy-docs.ts",
+		"test": "pnpm build && pnpm test:only",
+		"test:only": "pnpm @thi.ng run test",
+		"tool:deps": "tools:node-esm tools/src/adjacency.ts",
+		"tool:exports": "tools:node-esm tools/src/check-exports.ts",
+		"tool:imports": "tools:node-esm tools/src/check-imports.ts",
+		"tool:prune": "tools:node-esm tools/src/prune-changelogs.ts",
+		"tool:searchindex": "tools:node-esm tools/src/build-search-index.ts"
+	}
 }

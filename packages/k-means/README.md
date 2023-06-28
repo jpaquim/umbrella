@@ -31,7 +31,7 @@ Configurable k-means & k-medians (with k-means++ initialization) for n-D vectors
 ## Installation
 
 ```bash
-yarn add @thi.ng/k-means
+pnpm i @thi.ng/k-means
 ```
 
 ES module import:

@@ -44,7 +44,7 @@ Currently, this package provides:
 ## Installation
 
 ```bash
-yarn add @thi.ng/rdom-components
+pnpm i @thi.ng/rdom-components
 ```
 
 ES module import:

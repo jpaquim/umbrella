@@ -51,7 +51,7 @@ Reference: https://en.wikipedia.org/wiki/Zipper_(data_structure)
 ## Installation
 
 ```bash
-yarn add @thi.ng/zipper
+pnpm i @thi.ng/zipper
 ```
 
 ES module import:

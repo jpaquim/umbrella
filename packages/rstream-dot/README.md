@@ -37,7 +37,7 @@ Graphviz DOT conversion of [@thi.ng/rstream](https://github.com/thi-ng/umbrella/
 ## Installation
 
 ```bash
-yarn add @thi.ng/rstream-dot
+pnpm i @thi.ng/rstream-dot
 ```
 
 ES module import:

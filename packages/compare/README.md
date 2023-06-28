@@ -40,7 +40,7 @@ comparator. See examples below.
 ## Installation
 
 ```bash
-yarn add @thi.ng/compare
+pnpm i @thi.ng/compare
 ```
 
 ES module import:

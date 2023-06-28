@@ -76,7 +76,7 @@ Partially ported from C implementations taken from [c.thi.ng](http://c.thi.ng).
 ## Installation
 
 ```bash
-yarn add @thi.ng/random
+pnpm i @thi.ng/random
 ```
 
 ES module import:

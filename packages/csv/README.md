@@ -58,7 +58,7 @@ for more details/ideas.
 ## Installation
 
 ```bash
-yarn add @thi.ng/csv
+pnpm i @thi.ng/csv
 ```
 
 ES module import:

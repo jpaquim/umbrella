@@ -37,7 +37,7 @@ for binary versions of most of the ops provided by this package.
 ## Installation
 
 ```bash
-yarn add @thi.ng/dlogic
+pnpm i @thi.ng/dlogic
 ```
 
 ES module import:

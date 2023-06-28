@@ -50,7 +50,7 @@ Text based canvas, drawing, tables with arbitrary formatting (incl. ANSI/HTML).
 ## Installation
 
 ```bash
-yarn add @thi.ng/text-canvas
+pnpm i @thi.ng/text-canvas
 ```
 
 ES module import:

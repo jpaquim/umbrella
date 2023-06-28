@@ -36,7 +36,7 @@ Sparse vector & matrix implementations.
 ## Installation
 
 ```bash
-yarn add @thi.ng/sparse
+pnpm i @thi.ng/sparse
 ```
 
 ES module import:

@@ -57,7 +57,7 @@ thi.ng/umbrella packages, but would benefit from a more unified approach.
 ## Installation
 
 ```bash
-yarn add @thi.ng/oquery
+pnpm i @thi.ng/oquery
 ```
 
 ES module import:

@@ -47,7 +47,7 @@ standard interfaces: `ICompare`, `IContains`, `ICopy`, `IEquiv`.
 ## Installation
 
 ```bash
-yarn add @thi.ng/intervals
+pnpm i @thi.ng/intervals
 ```
 
 ES module import:

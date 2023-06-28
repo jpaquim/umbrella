@@ -61,7 +61,7 @@ rewrite of `gestureStream()` and new event data formats.
 ## Installation
 
 ```bash
-yarn add @thi.ng/rstream-gestures
+pnpm i @thi.ng/rstream-gestures
 ```
 
 ES module import:

@@ -61,7 +61,7 @@ transforming ES6 iterator (generator) instead of a transducer.
 ## Installation
 
 ```bash
-yarn add @thi.ng/transducers-stats
+pnpm i @thi.ng/transducers-stats
 ```
 
 ES module import:

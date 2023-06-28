@@ -105,7 +105,7 @@ have been removed.
 ## Installation
 
 ```bash
-yarn add @thi.ng/atom
+pnpm i @thi.ng/atom
 ```
 
 ES module import:

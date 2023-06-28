@@ -123,7 +123,7 @@ Partially based on Clojure version of [thi.ng/strf](http://thi.ng/strf).
 ## Installation
 
 ```bash
-yarn add @thi.ng/strings
+pnpm i @thi.ng/strings
 ```
 
 ES module import:

@@ -37,9 +37,9 @@ written to stdout).
 
 ```bash
 # in this example's project root...
-yarn install
+pnpm i
 
-yarn build-cli
+pnpm build-cli
 
 bin/hiccup --help
 # Usage: hiccup [options] <file>

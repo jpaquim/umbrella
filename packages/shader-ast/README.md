@@ -216,7 +216,7 @@ status. The TL;DR list...
 ## Installation
 
 ```bash
-yarn add @thi.ng/shader-ast
+pnpm i @thi.ng/shader-ast
 ```
 
 ES module import:

@@ -190,7 +190,7 @@ const html = defFormatPresets(FMT_HTML_TACHYONS);
 ## Installation
 
 ```bash
-yarn add @thi.ng/text-format
+pnpm i @thi.ng/text-format
 ```
 
 ES module import:

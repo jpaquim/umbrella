@@ -43,7 +43,7 @@ any actual JS type relationships).
 ## Installation
 
 ```bash
-yarn add @thi.ng/defmulti
+pnpm i @thi.ng/defmulti
 ```
 
 ES module import:

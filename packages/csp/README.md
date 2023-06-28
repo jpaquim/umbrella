@@ -58,7 +58,7 @@ for a similar, but alternative (and actively maintained) approach.
 ## Installation
 
 ```bash
-yarn add @thi.ng/csp
+pnpm i @thi.ng/csp
 ```
 
 ES module import:

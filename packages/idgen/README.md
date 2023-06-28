@@ -58,7 +58,7 @@ be checked for validity via `.has(id)` (in constant time).
 ## Installation
 
 ```bash
-yarn add @thi.ng/idgen
+pnpm i @thi.ng/idgen
 ```
 
 ES module import:

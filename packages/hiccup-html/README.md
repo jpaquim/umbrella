@@ -169,7 +169,7 @@ welcome!
 ## Installation
 
 ```bash
-yarn add @thi.ng/hiccup-html
+pnpm i @thi.ng/hiccup-html
 ```
 
 ES module import:

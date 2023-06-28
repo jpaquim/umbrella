@@ -143,7 +143,7 @@ supported. The same limit applies to the number of CA configs given.
 ## Installation
 
 ```bash
-yarn add @thi.ng/cellular
+pnpm i @thi.ng/cellular
 ```
 
 ES module import:

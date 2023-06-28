@@ -30,7 +30,7 @@ This project is part of the
 ## Installation
 
 ```bash
-yarn add @thi.ng/geom-arc
+pnpm i @thi.ng/geom-arc
 ```
 
 ES module import:

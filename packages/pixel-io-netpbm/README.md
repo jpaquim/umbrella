@@ -50,7 +50,7 @@ size and other meta data (from comments), without parsing the full image.
 ## Installation
 
 ```bash
-yarn add @thi.ng/pixel-io-netpbm
+pnpm i @thi.ng/pixel-io-netpbm
 ```
 
 ES module import:

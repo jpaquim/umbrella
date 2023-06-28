@@ -44,7 +44,7 @@ Current implementations partially based on
 ## Installation
 
 ```bash
-yarn add @thi.ng/geom-poly-utils
+pnpm i @thi.ng/geom-poly-utils
 ```
 
 ES module import:

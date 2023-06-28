@@ -166,7 +166,7 @@ map.get([3,4], "n/a");
 ## Installation
 
 ```bash
-yarn add @thi.ng/associative
+pnpm i @thi.ng/associative
 ```
 
 ES module import:

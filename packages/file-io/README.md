@@ -34,7 +34,7 @@ logging interface.
 ## Installation
 
 ```bash
-yarn add @thi.ng/file-io
+pnpm i @thi.ng/file-io
 ```
 
 For Node.js REPL:

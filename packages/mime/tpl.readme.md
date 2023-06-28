@@ -101,7 +101,7 @@ preferredExtension("image/foo", "dat");
 ```bash
 # from the thi.ng/umbrella repo root
 cd packages/mime
-yarn tool:convert
+pnpm tool:convert
 ```
 
 Additional configuration options are available in the `tools/convert.ts` script.

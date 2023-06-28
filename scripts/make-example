@@ -108,5 +108,5 @@ Please refer to the [example build instructions](https://github.com/thi-ng/umbre
 EOF
 
 echo "refreshing monorepo index..."
-yarn install
+pnpm install
 echo "DONE"

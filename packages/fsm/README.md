@@ -47,7 +47,7 @@ package.
 ## Installation
 
 ```bash
-yarn add @thi.ng/fsm
+pnpm i @thi.ng/fsm
 ```
 
 ES module import:

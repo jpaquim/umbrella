@@ -34,7 +34,7 @@ the Clojure version of
 ## Installation
 
 ```bash
-yarn add @thi.ng/geom-isoline
+pnpm i @thi.ng/geom-isoline
 ```
 
 ES module import:

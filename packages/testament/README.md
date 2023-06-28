@@ -32,7 +32,7 @@ Minimal, rational & TypeScript-friendly test runner, result export as CSV/JSON, 
 ## Installation
 
 ```bash
-yarn add @thi.ng/testament
+pnpm i @thi.ng/testament
 ```
 
 ES module import:

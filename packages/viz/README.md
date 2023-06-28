@@ -68,7 +68,7 @@ For reference & what to expect (links to the Clojure version):
 ## Installation
 
 ```bash
-yarn add @thi.ng/viz
+pnpm i @thi.ng/viz
 ```
 
 ES module import:

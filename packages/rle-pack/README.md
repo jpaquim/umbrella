@@ -64,7 +64,7 @@ Then per value:
 ## Installation
 
 ```bash
-yarn add @thi.ng/rle-pack
+pnpm i @thi.ng/rle-pack
 ```
 
 ES module import:

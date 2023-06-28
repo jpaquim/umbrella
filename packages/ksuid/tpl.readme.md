@@ -137,7 +137,7 @@ id32.next();
 ## Benchmarks
 
 ```text
-yarn bench
+pnpm bench
 
 benchmarking: b62, 128bit, n=10000
         warmup... 659.22ms (10 runs)

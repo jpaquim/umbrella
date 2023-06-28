@@ -57,7 +57,7 @@ ints or RGBA float vectors.
 ## Installation
 
 ```bash
-yarn add @thi.ng/porter-duff
+pnpm i @thi.ng/porter-duff
 ```
 
 ES module import:

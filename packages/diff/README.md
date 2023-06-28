@@ -30,7 +30,7 @@ Customizable diff implementations for arrays (sequential) & objects (associative
 ## Installation
 
 ```bash
-yarn add @thi.ng/diff
+pnpm i @thi.ng/diff
 ```
 
 ES module import:

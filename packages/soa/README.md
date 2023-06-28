@@ -63,7 +63,7 @@ by
 ## Installation
 
 ```bash
-yarn add @thi.ng/soa
+pnpm i @thi.ng/soa
 ```
 
 ES module import:

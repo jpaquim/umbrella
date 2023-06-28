@@ -55,7 +55,7 @@ indices are supported as well...
 ## Installation
 
 ```bash
-yarn add @thi.ng/poisson
+pnpm i @thi.ng/poisson
 ```
 
 ES module import:

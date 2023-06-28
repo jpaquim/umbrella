@@ -30,7 +30,7 @@ File output handler for structured, multilevel & hierarchical loggers based on [
 ## Installation
 
 ```bash
-yarn add @thi.ng/rstream-log-file
+pnpm i @thi.ng/rstream-log-file
 ```
 
 ES module import:

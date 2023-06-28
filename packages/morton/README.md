@@ -46,7 +46,7 @@ References:
 ## Installation
 
 ```bash
-yarn add @thi.ng/morton
+pnpm i @thi.ng/morton
 ```
 
 ES module import:

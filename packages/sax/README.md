@@ -60,7 +60,7 @@ well (see SVG parsing example further below). The choice is yours!
 ## Installation
 
 ```bash
-yarn add @thi.ng/sax
+pnpm i @thi.ng/sax
 ```
 
 ES module import:

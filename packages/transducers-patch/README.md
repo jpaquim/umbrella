@@ -37,7 +37,7 @@ state update. By default all edits are performed non-destructively, but
 ## Installation
 
 ```bash
-yarn add @thi.ng/transducers-patch
+pnpm i @thi.ng/transducers-patch
 ```
 
 ES module import:

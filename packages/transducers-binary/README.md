@@ -50,7 +50,7 @@ iterable for direct use.
 ## Installation
 
 ```bash
-yarn add @thi.ng/transducers-binary
+pnpm i @thi.ng/transducers-binary
 ```
 
 ES module import:

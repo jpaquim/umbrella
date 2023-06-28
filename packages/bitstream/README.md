@@ -39,7 +39,7 @@ ES6 iterator based read/write bit streams with support for variable word widths.
 ## Installation
 
 ```bash
-yarn add @thi.ng/bitstream
+pnpm i @thi.ng/bitstream
 ```
 
 ES module import:

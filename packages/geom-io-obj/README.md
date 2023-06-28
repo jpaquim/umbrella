@@ -51,7 +51,7 @@ Wavefront OBJ parser (& exporter soon). This is a support package for [@thi.ng/g
 ## Installation
 
 ```bash
-yarn add @thi.ng/geom-io-obj
+pnpm i @thi.ng/geom-io-obj
 ```
 
 ES module import:

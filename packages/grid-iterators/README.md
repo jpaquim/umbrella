@@ -223,7 +223,7 @@ optional clipping:
 ## Installation
 
 ```bash
-yarn add @thi.ng/grid-iterators
+pnpm i @thi.ng/grid-iterators
 ```
 
 ES module import:

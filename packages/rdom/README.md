@@ -260,7 +260,7 @@ $compile([
 ## Installation
 
 ```bash
-yarn add @thi.ng/rdom
+pnpm i @thi.ng/rdom
 ```
 
 ES module import:

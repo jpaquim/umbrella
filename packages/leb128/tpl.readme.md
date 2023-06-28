@@ -92,10 +92,10 @@ zig test zig/leb128.zig
 # All tests passed.
 
 # build binary and regenerate src/binary.ts
-yarn build:binary
+pnpm build:binary
 
 # test TS/JS version
-yarn test
+pnpm test
 ```
 
 <!-- include ../../assets/tpl/footer.md -->

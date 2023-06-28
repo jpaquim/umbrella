@@ -43,7 +43,7 @@ Supports:
 ## Installation
 
 ```bash
-yarn add @thi.ng/equiv
+pnpm i @thi.ng/equiv
 ```
 
 ES module import:

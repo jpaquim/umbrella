@@ -120,7 +120,7 @@ are suffixed with `S` (for "scalar"): `quadraticS`, `cubicS` and `quarticS`...
 ## Installation
 
 ```bash
-yarn add @thi.ng/dual-algebra
+pnpm i @thi.ng/dual-algebra
 ```
 
 ES module import:

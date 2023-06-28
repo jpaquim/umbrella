@@ -182,7 +182,7 @@ packages (which are more low-level, lightweight and usable by themselves too):
 ## Installation
 
 ```bash
-yarn add @thi.ng/geom
+pnpm i @thi.ng/geom
 ```
 
 ES module import:

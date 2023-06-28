@@ -50,7 +50,7 @@ Partially based on the Clojure implementation in
 ## Installation
 
 ```bash
-yarn add @thi.ng/router
+pnpm i @thi.ng/router
 ```
 
 ES module import:

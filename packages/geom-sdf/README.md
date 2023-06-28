@@ -116,7 +116,7 @@ support custom modfifiers. The table below illustrates a few examples effects:
 ## Installation
 
 ```bash
-yarn add @thi.ng/geom-sdf
+pnpm i @thi.ng/geom-sdf
 ```
 
 ES module import:

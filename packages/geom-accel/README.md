@@ -44,7 +44,7 @@ Currently available:
 ## Installation
 
 ```bash
-yarn add @thi.ng/geom-accel
+pnpm i @thi.ng/geom-accel
 ```
 
 ES module import:

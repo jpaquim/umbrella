@@ -65,7 +65,7 @@ this time built on the streaming primitives provided by
 ## Installation
 
 ```bash
-yarn add @thi.ng/rstream-query
+pnpm i @thi.ng/rstream-query
 ```
 
 ES module import:

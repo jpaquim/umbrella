@@ -147,7 +147,7 @@ therefore need to be complete, e.g. `{ rotate: "rotate(60)" }`
 ## Installation
 
 ```bash
-yarn add @thi.ng/hiccup-svg
+pnpm i @thi.ng/hiccup-svg
 ```
 
 ES module import:

@@ -30,7 +30,7 @@ Collection of 70+ type, feature & value checks.
 ## Installation
 
 ```bash
-yarn add @thi.ng/checks
+pnpm i @thi.ng/checks
 ```
 
 ES module import:

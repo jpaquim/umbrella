@@ -40,7 +40,7 @@ string) the function will **always** be enabled. Otherwise (by default),
 ## Installation
 
 ```bash
-yarn add @thi.ng/expose
+pnpm i @thi.ng/expose
 ```
 
 ES module import:

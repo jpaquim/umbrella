@@ -39,7 +39,7 @@ Highly configurable, fuzzy line & polygon creation with presets and composable f
 ## Installation
 
 ```bash
-yarn add @thi.ng/geom-fuzz
+pnpm i @thi.ng/geom-fuzz
 ```
 
 ES module import:

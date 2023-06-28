@@ -253,7 +253,7 @@ the more saturated colors much more muted than they actually are/should be.
 ## Installation
 
 ```bash
-yarn add @thi.ng/color-palettes
+pnpm i @thi.ng/color-palettes
 ```
 
 ES module import:

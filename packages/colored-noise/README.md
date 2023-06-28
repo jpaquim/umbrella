@@ -355,7 +355,7 @@ white
 ## Installation
 
 ```bash
-yarn add @thi.ng/colored-noise
+pnpm i @thi.ng/colored-noise
 ```
 
 ES module import:

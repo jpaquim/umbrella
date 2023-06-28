@@ -49,7 +49,7 @@ in ~850ms (Chrome 72, MBP 2016)
 ## Installation
 
 ```bash
-yarn add @thi.ng/geom-voronoi
+pnpm i @thi.ng/geom-voronoi
 ```
 
 ES module import:

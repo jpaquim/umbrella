@@ -38,7 +38,7 @@ backing the width is always rounded to a multiple of 32.
 ## Installation
 
 ```bash
-yarn add @thi.ng/bitfield
+pnpm i @thi.ng/bitfield
 ```
 
 ES module import:

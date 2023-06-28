@@ -30,7 +30,7 @@ Optimized functional composition helpers.
 ## Installation
 
 ```bash
-yarn add @thi.ng/compose
+pnpm i @thi.ng/compose
 ```
 
 ES module import:

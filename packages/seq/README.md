@@ -43,7 +43,7 @@ the remaining values at their own pace.
 ## Installation
 
 ```bash
-yarn add @thi.ng/seq
+pnpm i @thi.ng/seq
 ```
 
 ES module import:

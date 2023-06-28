@@ -30,7 +30,7 @@ Array-based complex number algebra.
 ## Installation
 
 ```bash
-yarn add @thi.ng/complex
+pnpm i @thi.ng/complex
 ```
 
 ES module import:

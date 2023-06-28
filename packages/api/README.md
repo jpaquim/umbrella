@@ -38,7 +38,7 @@ defines:
 ## Installation
 
 ```bash
-yarn add @thi.ng/api
+pnpm i @thi.ng/api
 ```
 
 ES module import:
